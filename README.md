@@ -1,3 +1,24 @@
+# Coursera Data Science Specialization Course 4 Week 1 Assignment README
+
+## Acknowledgement
+
+Acknowledgement for this dataset goes to:
+>Georges Hebrail (georges.hebrail '@' edf.fr), Senior Researcher, EDF R&D,
+>Clamart, France. Alice Berard, TELECOM ParisTech Master of Engineering
+>Internship at EDF R&D, Clamart, France. Accessed from the UCI Machine Learning
+>Repository - Individual household electric power consumption data set
+
+## Summary
+
+The purpose of this project is to satisfy the requirements of the week 1 course
+project that is part of the Exploratory Data Analysis course within the Data
+Science Specialization on Coursera. As per the instructions the repot must be
+forked from the original and then updated to contain four scripts each of which
+produce one png file which is a plot. The input for all scripts is the data set
+obtained from the UCI machine learning repository, and the output is the four
+PNG plot files. All text below this line is from the original README file which
+describes the assignement in greater detail.
+
 ## Introduction
 
 This assignment uses data from
